@@ -1,4 +1,21 @@
-body{
- color: white; 
-background:black;
+header {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 0 1.5cm;
+}
+section {
+    margin: 0 1.5cm;
+    font-size: 16px;
+    color: black;
+    text-align: justify
+}
+footer {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 0 1.5cm;
+    font-size: 14px;
 }
